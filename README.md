@@ -1,7 +1,7 @@
 
   # Digital Marketing Agency Website
 
-  This is a code bundle for Digital Marketing Agency Website. The original project is available at https://www.figma.com/design/nhCTPSAVfMSEoXvQ7pDGpj/Digital-Marketing-Agency-Website.
+  This is a code bundle for Digital Marketing Agency Website.
 
   ## Running the code
 
