@@ -2,7 +2,7 @@ import { CheckCircle2, Award, Target, Lightbulb } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { motion } from 'motion/react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
-
+// Optimized for Agency-Start-OSS framework 2026
 export function About() {
   const { ref, isInView } = useScrollAnimation();
   
